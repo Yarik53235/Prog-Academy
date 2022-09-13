@@ -1,0 +1,3 @@
+def Bitcoin_can_buy(bitcoin, money):
+    can_buy = money/bitcoin
+    return can_buy
